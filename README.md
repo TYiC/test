@@ -4,12 +4,12 @@ OSEP (Open-Source Extension Platform) Scratch is an open-source project running 
 
 This project intends to comply with the 2019 Curriculum Guidelines of 12-Year Basic Education in Taiwan and to promote the teaching and learning of computer technology in high school and elementary school. In order to empower students to use innovative technologies to explore and solve problems in daily life, several extensions about open data, the Internet of Things (IoT), artificial intelligence, and others are included. Below is a list of extensions and their information. 
 
-### JSON / IFTTT / LASS / ThingSpeak
+#### JSON / IFTTT / LASS / ThingSpeak
 Developer: Gasolin
 
 Github: https://github.com/gasolin/scratch3-internet
 
-### Speech to Text / URL & Text File / Google Sheets / Web Serial Arduino / Web Serial ESP-8266 / Web Serial ESP 32 / Web Serial PicoBoard / MQTT / Line / Open AI
+#### Speech to Text / URL & Text File / Google Sheets / Web Serial Arduino / Web Serial ESP-8266 / Web Serial ESP 32 / Web Serial PicoBoard / MQTT / Line / Open AI
 Developer: estea chen
 
 Github: https://github.com/estea8968/osep_web_serial
