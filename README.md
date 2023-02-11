@@ -31,13 +31,11 @@ Github: https://github.com/microbit-more/mbit-more-v2
 ## Installation
 This project requires you to have Git and Node.js installed. If you want to edit/play yourself, please follow these steps:
 
-```
 (1) git clone https://github.com/estea8968/osep_web_serial.git
 (2) cd osep_web_serial
 (3) npm install
 (4) npm run copy (for Mac and Linux operating systems)
     npm run copy:win (for Windows operating system)
-```
 
 ## Running
 npm start (for Mac and Linux operating systems)
