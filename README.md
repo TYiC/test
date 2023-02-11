@@ -1,4 +1,5 @@
 # OSEP Scratch
+
 ## Introduction
 OSEP (Open-Source Extension Platform) Scratch is an open-source project running Scratch 3.0 GUI with official and experimental extensions. You can try out this project by going to [https://estea8968.github.io/osep_web_serial/app/](https://estea8968.github.io/osep_web_serial/app/).
 
@@ -34,6 +35,7 @@ Developer: Yengawa Lab
 
 Github: https://github.com/microbit-more/mbit-more-v2
 
+
 ## Installation
 This project requires you to have Git and Node.js installed. If you want to edit/play yourself, please follow these steps:
 
@@ -43,12 +45,14 @@ This project requires you to have Git and Node.js installed. If you want to edit
 4. `npm run copy` (for Mac and Linux operating systems)
    `npm run copy:win` (for Windows operating system)
 
+
 ## Running
 `npm start` (for Mac and Linux operating systems)
 
 `npm run start:win` (for Windows operating system)
 
 Then go to [http://localhost:8601/](http://localhost:8601/).
+
 
 ## Conclusions
 OSEP Scratch is a collective effort of open-source developers and educators. We welcome your comments and suggestions.  
