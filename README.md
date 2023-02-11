@@ -6,26 +6,32 @@ This project intends to comply with the 2019 Curriculum Guidelines of 12-Year Ba
 
 ### JSON / IFTTT / LASS / ThingSpeak
 Developer: Gasolin
+
 Github: https://github.com/gasolin/scratch3-internet
 
 ### Speech to Text / URL & Text File / Google Sheets / Web Serial Arduino / Web Serial ESP-8266 / Web Serial ESP 32 / Web Serial PicoBoard / MQTT / Line / Open AI
 Developer: estea chen
+
 Github: https://github.com/estea8968/osep_web_serial
 
 ### Chart.js / TAIEX / Google Maps / Data Processing / Google Sheets 
 Developer: TYiC
+
 Github: https://github.com/estea8968/osep_web_serial 
 
 ### ML2Scratch / Posenet2Scratch / TM2Scratch / TMPose2Scratch / Google Maps 
 Developer: champierre
+
 Github: https://github.com/champierre
 
 ### QR Code
 Developer: Sugiura Lab
+
 Github: https://github.com/sugiura-lab
 
 ### Microbit More
 Developer: Yengawa Lab
+
 Github: https://github.com/microbit-more/mbit-more-v2
 
 ## Installation
@@ -39,7 +45,9 @@ This project requires you to have Git and Node.js installed. If you want to edit
 
 ## Running
 `npm start` (for Mac and Linux operating systems)
+
 `npm run start:win` (for Windows operating system)
+
 Then go to [http://localhost:8601/](http://localhost:8601/).
 
 ## Conclusions
