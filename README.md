@@ -1,9 +1,9 @@
 # OSEP Scratch
 
 ## Introduction
-**OSEP (Open-Source Extension Platform) Scratch is an open-source project running Scratch 3.0 GUI with official and experimental extensions. You can try out this project by going to [https://estea8968.github.io/osep_web_serial/app/](https://estea8968.github.io/osep_web_serial/app/).**
+OSEP (Open-Source Extension Platform) Scratch is an open-source project running Scratch 3.0 GUI with official and experimental extensions. You can try out this project by going to [https://estea8968.github.io/osep_web_serial/app/](https://estea8968.github.io/osep_web_serial/app/).
 
-**This project intends to comply with the 2019 Curriculum Guidelines of 12-Year Basic Education in Taiwan and to promote the teaching and learning of computer technology in high school and elementary school. In order to empower students to use innovative technologies to explore and solve problems in daily life, several extensions about open data, the Internet of Things (IoT), artificial intelligence, and others are included. Below is a list of extensions and their information.**
+This project intends to comply with the 2019 Curriculum Guidelines of 12-Year Basic Education in Taiwan and to promote the teaching and learning of computer technology in high school and elementary school. In order to empower students to use innovative technologies to explore and solve problems in daily life, several extensions about open data, the Internet of Things (IoT), artificial intelligence, and others are included. Below is a list of extensions and their information.
 
 #### JSON / IFTTT / LASS / ThingSpeak
 Developer: Gasolin
